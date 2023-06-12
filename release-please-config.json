@@ -1,4 +1,7 @@
 {
+    "packageName": "terraform-gke",
+    "versionFile": "terraform-gke/.release-please-manifest.json",
+    "bumpMinorPreMajor": false
     "packages": {
       "terraform-gke": {
         "changelog-path": "CHANGELOG.md",
