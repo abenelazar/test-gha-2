@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/abenelazar/test-gha-2/compare/v1.0.1...v1.1.0) (2023-06-12)
+
+
+### Features
+
+* test ([2e6a061](https://github.com/abenelazar/test-gha-2/commit/2e6a061f68e675bb2817245a3df4cb436c95613f))
+
 ## [1.0.1](https://github.com/abenelazar/test-gha-2/compare/v1.0.0...v1.0.1) (2023-06-12)
 
 
